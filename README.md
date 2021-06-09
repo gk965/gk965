@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gk
+- 👀 I’m interested in web development, primarily backend
+- 📫 Reach me - garima347@gmail.com
